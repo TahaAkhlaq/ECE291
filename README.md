@@ -23,12 +23,23 @@ The primary project for this course involved designing and constructing a **Ther
 ---
 
 ## **Project Files**  
-The following files provide a detailed breakdown of the Theremin circuit and its stages:
+Below are the key project files displaying the Theremin circuit design:
 
-- **[Block Diagram](Theremin/Block_Diagram.png)** – High-level overview of the Theremin system.  
-- **[Schematic](Theremin/Schematic.png)** – Detailed circuit schematic.  
-- **[Circuit Stage Breakdown](Theremin/Circuit_Stage_Overview.png)** – Step-by-step breakdown of circuit operation.  
-- **[Final Circuit](Theremin/Final_Circuit.png)** – Completed system design.  
+### **Block Diagram**  
+This diagram provides a high-level overview of the system structure.  
+![Block Diagram](Theremin/Block_Diagram.png)  
+
+### **Schematic**  
+A complete schematic of the Theremin circuit.  
+![Schematic](Theremin/Schematic.png)  
+
+### **Circuit Stage Breakdown**  
+A breakdown of the different stages of the Theremin circuit.  
+![Circuit Stage Breakdown](Theremin/Circuit_Stage_Overview.png)  
+
+### **Final Circuit**  
+The final implemented version of the Theremin circuit.  
+![Final Circuit](Theremin/Final_Circuit.png)  
 
 ---
 
