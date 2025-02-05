@@ -1,4 +1,4 @@
-# ECE240 Circuit Analysis
+# ECE291 Electrical Engineering Sophomore Projects
 
 ## Course Overview
 This repository contains MATLAB programs for ECE240: Circuit Analysis, instructed by **Professor Ja-beom "JB" Koo** during the Fall 2024 semester at [The Cooper Union](http://www.cooper.edu).
